@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+xsapi:
+  client:
+    access-key: xsf
+    secret-key: sdffgfgrtrrdwerr
